@@ -1,12 +1,6 @@
-" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hans4yu&layout=compact&theme=algolia"/>
-</a>
-</p>
-
-Silakan ganti username “penuliscode” dengan username akun GitHub Anda. Keseluruhan berkas README.md akan jadi seperti ini.
 # Halo semua! 
  
-Perkenalkan nama saya **Gilang Ramadhan**.<br>
+Perkenalkan nama saya **Farhan Abdul**.<br>
  
 Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).<br>
  
